@@ -1,0 +1,6 @@
+Added <h1> tags
+Added <p> tags to "About Boo"
+Added missing quotation marks to booFacts array
+Renamed jScript source to "logic.js"
+Added missing quotation marks to "pink" in .js
+Added missing quotation marks to "click" in .js
